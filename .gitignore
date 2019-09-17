@@ -1,7 +1,7 @@
 venv/
 .idea/
 literature/
-data/
+data/signs_wav
 src/save/models
 src/save/networks
 src/save/plots
