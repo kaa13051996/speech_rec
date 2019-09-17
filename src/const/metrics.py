@@ -1,0 +1,5 @@
+ACCURACY = 'accuracy'
+PROBA = 'proba'
+EER = 'eer'
+BALANCE_ACC = 'balance'
+PREDICT = 'predict'

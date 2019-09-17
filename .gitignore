@@ -1,0 +1,7 @@
+venv/
+.idea/
+literature/
+data/
+src/save/models
+src/save/networks
+src/save/plots
